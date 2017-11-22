@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "画像論.data.unityweb",
+"asmCodeUrl": "画像論.asm.code.unityweb",
+"asmMemoryUrl": "画像論.asm.memory.unityweb",
+"asmFrameworkUrl": "画像論.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
